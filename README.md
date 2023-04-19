@@ -1,16 +1,4 @@
 # birthday_wishing
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="205" alt="01" src="https://user-images.githubusercontent.com/74593517/232947020-69249960-e3c7-4103-a4f7-517a89c57c6a.png">
+<img width="206" alt="02" src="https://user-images.githubusercontent.com/74593517/232947032-c33d6296-8b2e-4101-9cf2-391472b1e2b5.png">
